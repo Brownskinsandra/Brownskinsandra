@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,exercise(workouts) and music
 - 🌱 I’m currently learning web development (frontend dev)
 - 💞️ I’m looking to collaborate on ideas,jobs,projects
-- 📫 How to reach me? you can reach me on tiktok (<a href="https://github.com/Brownskinsandra/Brownskinsandra/edit/main/README.md" target="_blank">brownskinsandra</a>)
+- 📫 How to reach me? you can reach me on tiktok (<a href="https://www.tiktok.com/@brownskinsandra?is_from_webapp=1&sender_device=pc" target="_blank">brownskinsandra</a>)
 - 😄 Pronouns: She
 - ⚡ Fun fact: A friendly introvert that's quite a good listener.
 
