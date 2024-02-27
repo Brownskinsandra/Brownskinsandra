@@ -1,9 +1,21 @@
-- 👋 Hi, I’m Sandra, from Nigeria
-- 👀 I’m interested in coding,exercise(workouts) and music
-- 🌱 I’m currently learning web development (frontend dev)
-- 💞️ I’m looking to collaborate on ideas,jobs,projects
-- 📫 How to reach me? you can reach me on tiktok (<a href="https://www.tiktok.com/@brownskinsandra?is_from_webapp=1&sender_device=pc" target="_blank">brownskinsandra</a>)
-- 😄 Pronouns: She
+# Sandra's Coding Journey
+This is a space, where a document my coding journeys, the trials and  challenges. 
+
+## Learning Path
+i'm currently expanding my skills in:
+.Responsive Design/Website
+.Advanced css techniques
+.Javascript basics
+
+### Connect with me
+Reach me on tiktok  (<a href="https://www.tiktok.com/@brownskinsandra?is_from_webapp=1&sender_device=pc" target="_blank">brownskinsandra</a>) 
+and/or Email: <a href="#" target="_blank">okaforsan77@gmail.com</a>
+
+## Acknowledgements
+To all the open-source contributors out there, thank you for making your knowledge accessible
+
+### Pronouns
+She/Her
 - ⚡ Fun fact: A friendly introvert that's quite a good listener.
 
 <!---
