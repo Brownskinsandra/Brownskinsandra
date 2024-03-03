@@ -1,5 +1,5 @@
 # Sandra's Coding Journey
-This is a space, where a document my coding journeys, the trials and  challenges. 
+This is i space, where a document my coding journeys, the trials and  challenges. 
 
 ## Learning Path
 i'm currently expanding my skills in:
